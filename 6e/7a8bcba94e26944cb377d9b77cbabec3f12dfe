@@ -1,0 +1,21 @@
+privacy.html
+  s_0eb7e9db3ab23f::t_4491aefbfd3a83 43
+support.html
+  s_0eb7e9db3ab23f::t_b876a3a17acbe4 22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6e7a8bcba94e26944cb377d9b77cbabec3f12dfe",
+  "prompts": {},
+  "sessions": {
+    "s_0eb7e9db3ab23f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0d90da60-f0b1-4f30-a4ec-1d393f177db8",
+        "model": "unknown"
+      },
+      "human_author": "Parris Digital <parrisdigital@gmail.com>"
+    }
+  }
+}
