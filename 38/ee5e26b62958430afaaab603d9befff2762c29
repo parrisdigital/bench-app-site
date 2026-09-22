@@ -1,0 +1,19 @@
+support.html
+  s_0eb7e9db3ab23f::t_329e48d5bbbf49 28-34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "38ee5e26b62958430afaaab603d9befff2762c29",
+  "prompts": {},
+  "sessions": {
+    "s_0eb7e9db3ab23f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0d90da60-f0b1-4f30-a4ec-1d393f177db8",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Parris Digital <parrisdigital@gmail.com>"
+    }
+  }
+}
