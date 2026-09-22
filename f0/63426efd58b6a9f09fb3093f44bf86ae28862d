@@ -1,0 +1,18 @@
+index.html
+  h_346e1fa9cc619d 1-36
+privacy.html
+  h_346e1fa9cc619d 1-48
+support.html
+  h_346e1fa9cc619d 1-45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f063426efd58b6a9f09fb3093f44bf86ae28862d",
+  "prompts": {},
+  "humans": {
+    "h_346e1fa9cc619d": {
+      "author": "Parris Digital <parrisdigital@gmail.com>"
+    }
+  }
+}
